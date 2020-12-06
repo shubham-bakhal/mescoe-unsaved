@@ -7,7 +7,7 @@ import './TextContainer.css';
 const TextContainer = ({ users }) => (
   <div className="textContainer">
     <div>
-      <h1>kya aabha kya chalu aahe <span role="img" aria-label="emoji">💬</span></h1>
+      <h1>Chat Application <span role="img" aria-label="emoji">💬</span></h1>
       <h2>Just a trial of Socket.IO <span role="img" aria-label="emoji">❤️</span></h2>
       <h2>Try it out right now! <span role="img" aria-label="emoji">⬅️</span></h2>
     </div>
